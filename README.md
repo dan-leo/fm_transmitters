@@ -7,5 +7,5 @@ This was my first ever version.
 <br>
 <br>
 
-Here I made it more compact.
+Here I made it quite a bit more compact.
 ![v1.1](v1.1/fm-transmitter-v1.1.1-print-transparent.png)
